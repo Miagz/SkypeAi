@@ -48,7 +48,7 @@ web API模式 默认端口为7777
 
 ### Demo
 
-<video src="https://github.com/Miagz/SkypeAi/blob/main/img/demo.gif"></video>
+![Alt text](https://github.com/Miagz/SkypeAi/blob/main/img/demo.gif)
 
 #### 二次开发
 1、使用SkypeAi 的web api模式，接入NewBing到微信或者QQ等聊天软件，实现聊天机器人功能
