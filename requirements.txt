@@ -1,0 +1,8 @@
+pyreadline == 2.1
+pyquery == 2.0.0
+pyyaml == 6.0.1
+beautifulsoup4 == 4.12.2
+argparse == 1.4.0
+flask == 2.3.2
+gevent == 23.7.0
+reprint == 0.6.0
